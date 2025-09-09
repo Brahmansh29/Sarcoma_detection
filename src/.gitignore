@@ -1,0 +1,15 @@
+Data files
+data/processed/
+data/raw/*.csv
+
+Python
+pycache/
+*.pyc
+
+Jupyter Notebooks
+.ipynb_checkpoints/
+
+Environment
+.venv/
+venv/
+env/
