@@ -1,0 +1,18 @@
+Python
+pycache/
+*.pyc
+
+IDEs
+.vscode/
+
+Environment
+.env
+venv/
+
+Data files (DO NOT COMMIT)
+These files are too large for GitHub and should not be version controlled.
+You can re-download them from the original source if needed.
+data/raw/GSE140686-GPL13534_series_matrix.txt
+data/raw/GSE140686-GPL21145_series_matrix.txt
+data/raw/GSE140686_family.soft
+data/processed/features.csv
